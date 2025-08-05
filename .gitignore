@@ -80,3 +80,10 @@ node_modules/
 
 # Flask Profiler files
 flask_profiler.sql
+
+# Docker data directories
+.data/
+.env
+
+# Docker Compose override files
+docker-compose.override.yml
